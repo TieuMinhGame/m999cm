@@ -1,6 +1,6 @@
 
 //module.exports = {
-//	'url': 'mongodb://m99cm.herokuapp.com:27017',
+//	'url': 'mongodb://127.0.0.1:27017',
 //	'options': {
 //		'user':   'admin',
 //		'pass':   'YouPassforUser',
@@ -13,7 +13,7 @@
 
 
 module.exports = {
-	'url': 'mongodb://m99cm.herokuapp.com:27017',
+	'url': 'mongodb://127.0.0.1:27017',
 	'options': {
 	//	'user':   'admin',
 	//	'pass':   'Ddata@123456',

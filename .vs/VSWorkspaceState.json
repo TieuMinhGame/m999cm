@@ -3,8 +3,9 @@
     "",
     "\\app",
     "\\app\\Controllers",
-    "\\app\\Controllers\\shop"
+    "\\app\\Controllers\\shop",
+    "\\config"
   ],
-  "SelectedNode": "\\app\\Controllers\\shop\\autocallback.js",
+  "SelectedNode": "\\app\\Controllers\\shop\\bankcallback.js",
   "PreviewInSolutionExplorer": false
 }

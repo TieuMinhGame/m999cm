@@ -2,7 +2,8 @@ var MongoClient = require('mongodb').MongoClient;
 var UserInfo      = require('../../Models/UserInfo');
 let Bank_history = require('../../Models/Bank/Bank_history');
 var helper = require('../../Helpers/Helpers')
-var url = "mongodb://m99cm.herokuapp.com:27017";
+var url = "mongodb://
+: 27017";
 let UserMission = require('../../Models/UserMission');
 module.exports = function (req, res) {
     //fs.readFile(path.dirname(path.dirname(__dirname)) + '/config/sys.json', 'utf8', (err, data)=>{
