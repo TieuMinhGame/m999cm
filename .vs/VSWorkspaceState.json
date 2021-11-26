@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\Controllers",
+    "\\app\\Controllers\\shop"
   ],
-  "SelectedNode": "\\config",
+  "SelectedNode": "\\app\\Controllers\\shop\\nap_the_callback.js",
   "PreviewInSolutionExplorer": false
 }
